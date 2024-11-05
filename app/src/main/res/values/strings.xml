@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Budget Shopping List</string>
+    <string name="welcome">Welcome</string>
+    <string name="create_trip">View Trips</string>
+    <string name="plus">+</string>
+    <string name="zero_dollars">0.00</string>
+    <string name="dollarSign">$</string>
+    <string name="set_budget">Set Budget</string>
+    <string name="shopping_button_desc">Add button for shopping item</string>
+    <string name="default_amount">0.00</string>
+    <string name="shopping_item">Shopping Item</string>
+    <string name="new_trip">New Trip</string>
+    <string name="trip">Trip</string>
+    <string name="trip_name">Trip name</string>
+    <string name="remove">Del</string>
+    <string name="add_trip">Create Trip</string>
+</resources>
